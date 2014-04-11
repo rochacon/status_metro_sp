@@ -9,11 +9,9 @@ Version: 0.1.0
 Como usar
 -------------------------
 
-	from metrosp import MetroSP
+    % pip install metrosp
+    % metrosp
 
-	metro = MetroSP()
-    infos = metro.get_metro_status()
-    print infos
 
 License
 ---------
